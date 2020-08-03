@@ -1,6 +1,6 @@
 body {
     background-color: yellowgreen;
-
+    font-family: "DejaVu Sans Mono";
 }
 
 h1 {
@@ -42,7 +42,7 @@ h1 {
 
 }
 p {
-   font-family: "Nimbus Roman";
+   font-family: "DejaVu Sans Mono";
 
 
 }
