@@ -1,6 +1,10 @@
 body {
     background-color: yellowgreen;
     font-family: "DejaVu Sans Mono";
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
 }
 
 h1 {
@@ -28,8 +32,10 @@ h1 {
 }
 
 .image {
+
     padding-top: 20px;
     padding-bottom: 20px;
+
 }
 .Quote {
     text-align: center;
@@ -43,6 +49,10 @@ h1 {
 }
 p {
    font-family: "DejaVu Sans Mono";
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
 
 
 }
