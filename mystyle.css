@@ -24,4 +24,10 @@ h1 {
     padding-top: 20px;
     padding-bottom: 20px;
 }
-
+.Quote {
+    text-align: center;
+    background: #ffffff;
+    color: #25a508;
+    font-size: 15px;
+    padding: 10px;
+}
